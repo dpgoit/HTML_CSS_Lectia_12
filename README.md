@@ -1,1 +1,1 @@
-# HTML_CSS - Modulul 5 - Lecția 10 - Tranzitii / Animatii
+# HTML_CSS - Modulul 6 - Lecția 12 - Elementele unui formular / Validarea unui formular
